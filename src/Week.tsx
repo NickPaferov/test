@@ -2,6 +2,7 @@ import React from 'react';
 
 export const Week = () => {
     return <>
+        <h3>Week</h3>
         <ul>
             <li>Monday</li>
             <li>Tuesday</li>

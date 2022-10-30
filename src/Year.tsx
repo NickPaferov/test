@@ -2,6 +2,7 @@ import React from 'react';
 
 export const Year = () => {
     return <>
+        <h3>Year</h3>
         <ul>
             <li>January</li>
             <li>February</li>
